@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Job Attendance</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_job_location">Add job location</string>
+    <string name="add_location">Submit</string>
+    <string name="insert_address">Insert address..</string>
+</resources>
